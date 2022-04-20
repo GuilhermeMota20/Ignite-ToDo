@@ -20,7 +20,11 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 ## 💻 Projeto
 
-Esse é um ToDo simples, feito com o objetivo de dar inicio aos estudos com React.js e seu ecosistema.
+Essa será uma aplicação onde o seu principal objetivo é uma pequena aplicação de atividades a fazer, para treinar um pouco mais sobre manipulação do estado no React.
+
+- Adicionar uma nova tarefa
+- Remover uma tarefa
+- Marcar e desmarcar uma tarefa como concluída
 
 ## 🔖 Layout
 
